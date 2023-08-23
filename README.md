@@ -8,11 +8,13 @@ DAB Radio Data Analysis project is a Data Science and Advanced programming proje
 - Technologies and Frameworks
 
 ## Features
-- importing data files
+- Importing data files
 - Data Cleaning
 - Parsing CSV
 - Data Analysis using advanced SQL queries
 - Visualising data
 
 ## Screenshots
-![Main interface]()
+![Main interface](./screenshots/mainUi1.png)
+![Parse Menu](./screenshots/parseMenu.png)
+![Data Manipulation Menu](./screenshots/datamanipulationMenu.png)
